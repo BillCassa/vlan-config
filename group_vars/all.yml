@@ -3,5 +3,5 @@ vlans:
     name: STORAGE
   - id: 20
     name: SERVERS
-  -id: 30
-   name: USERS
+  - id: 30
+    name: USERS
